@@ -1,0 +1,19 @@
+Hangman
+-------------------------------------------------------------------------------
+
+HomeModule.cs (routing)
+  index.cshtml:
+    hangman-step-0.img
+
+
+Hangman.cs (methods)
+  constructor for hangman Objects
+    _word = the word we are guessing
+    _turn = number of turns left out of 6
+    _
+Views:
+  Hangman images
+  display letters
+  input form for guessing a letter
+
+  /hangman
